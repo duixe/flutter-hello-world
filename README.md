@@ -1,4 +1,4 @@
-# hello_world
+# flutter_hello_world
 
 My beginner Flutter project.
 
